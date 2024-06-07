@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:water_bucket"
+  },
+  "result": "marcymod-fabric:moonshine",
+  "experience": 100,
+  "cookingtime": 40
+}

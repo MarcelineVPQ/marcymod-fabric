@@ -1,4 +1,8 @@
 {
   "item.marcymod-fabric.spear": "UnMagic Spear",
-  "item.marcymod-fabric.banana": "Banana"
+  "item.marcymod-fabric.banana": "Banana",
+  "item.marcymod-fabric.lotus_flower": "Lotus Flower",
+  "item.marcymod-fabric.moonshine": "Moonshine",
+  "item.marcymod-fabric.masonjar_empty": "Empty Mason Jar",
+  "item.marcymod-fabric.masonjar_full": "Full Mason Jar"
 }

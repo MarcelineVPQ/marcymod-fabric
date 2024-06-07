@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "JJJ",
+    "JMJ",
+    "JJJ"
+  ],
+  "key": {
+    "M": {
+      "item": "marcymod-fabric:moonshine"
+    },
+    "J": {
+      "item": "marcymod-fabric:masonjar_empty"
+    }
+  },
+  "result": {
+    "item": "marcymod-fabric:masonjar_full",
+    "count": 8
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FSF",
+    "SWS",
+    "FSF"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar_cane"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "F": {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  },
+  "result": {
+    "item": "marcymod-fabric:moonshine",
+    "count": 1
+  }
+}
