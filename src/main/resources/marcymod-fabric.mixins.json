@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me._missmarcy.marcymodfabric.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "Marcy_sModMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

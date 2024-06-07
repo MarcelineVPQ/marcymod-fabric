@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "marcymod-fabric",
+  "version": "${version}",
+  "name": "Marcy's Mod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/MarcelineVPQ/marcymod-fabric"
+  },
+  "license": "MIT",
+  "icon": "assets/marcymod-fabric/textures/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me._missmarcy.marcymodfabric.client.Marcy_sModClient"
+    ],
+    "main": [
+      "me._missmarcy.marcymodfabric.Marcy_sMod"
+    ]
+  },
+  "mixins": [
+    "marcymod-fabric.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
